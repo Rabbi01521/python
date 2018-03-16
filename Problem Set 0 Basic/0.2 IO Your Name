@@ -1,6 +1,7 @@
-# input a String
+#input a string
+#Rabbi Hasan
 
 name = input()
 print(name)
 
-# print(type(name))
+print(type(name))
