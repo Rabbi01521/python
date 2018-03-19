@@ -1,14 +1,44 @@
-#Input Name with Formatted Output
-print("What is Your Name: ")
-name = input()
-print("Hello ",name)
+"""
+#input Name with Formatted output
+#Rabbi Hasan
+name = input("What is your Name: ")
+print("Hello,",name)
 
-#Input Age with Formatted Output
-print("What is Your Age: ")
-age = int(input())
-print("Your age is: ",age)
+#input age with Formatted output
+age = int(input("What is your age: "))
+print("Your age is:",age)
 
-#Input CGPA with Formatted Output
-print("What is Your CGPA: ")
-cgpa = float(input())
-print("Your CGPA is ",cgpa)
+#input cgpa with formatted output
+cgpa = float(input("What is your CGPA:"))
+print("Your cgpa is ",cgpa)
+"""
+"""
+#input name with formatted output
+
+name = input("What is your name: ")
+print("Hello,",name)
+"""
+
+"""
+#input age with formatted output
+
+age = int(input("What is your Age: "))
+print("Your Age is:",age)
+"""
+
+"""
+#input cgpa with formatted output
+
+cgpa = float(input("What is your CGPA: "))
+print("Your CGPA is:",cgpa) 
+"""
+
+"""
+#input Name with formatted output
+
+name = input("What is your name: ")
+print("Hello,",name)
+print("Hello,",name,"How are You?")
+print("Hello,{}".format(name))
+print(f"Hello, {name}")
+"""
