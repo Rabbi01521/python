@@ -1,32 +1,33 @@
-# Input an Integer Number
+#input an integer number
 """
+age = input()
+print(age)       #Rabbi Hasan
+"""
+
+"""
+#input an integer number
+
 age = input()
 print(age)
 print(type(age))
-
 """
 
-# All Input is String in Python
-# We have to Type Cast to convert String into Integer.
+#input an integer number
+"""
+age = input()
+print(type(age))
+print(age)
 
-# Solution 1
+age = int(age)
 
+print(age)
+
+print(type(age))
+"""
+
+#input an integer number
 age = int(input())
 print(type(age))
 
 print(age)
 print(type(age))
-
-
-# Solution 2
-"""
-
-age = input()
-print(type(age))
-
-age = int(age)
-print(age)
-
-print(type(age))
-
-"""
