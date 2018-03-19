@@ -1,7 +1,8 @@
 #input an integer number
+#Rabbi Hasan
 """
 age = input()
-print(age)       #Rabbi Hasan
+print(age)     
 """
 
 """
