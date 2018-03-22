@@ -1,4 +1,7 @@
+#Rabbi Hasan
 a = int(input())
 b = int(input())
-rem = a % b
-print(rem)
+
+reminder= a%b
+
+print(reminder)
