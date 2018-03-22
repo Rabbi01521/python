@@ -1,4 +1,7 @@
+#Rabbi Hasan
 a = int(input())
 b = int(input())
-quo = a / b
-print(quo)
+
+quotient = a/b
+
+print(quotient)
