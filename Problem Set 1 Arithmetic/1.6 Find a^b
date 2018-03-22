@@ -1,20 +1,20 @@
+#Rabbi Hasan
 a = int(input())
 b = int(input())
 
-## Exponent with Arithmetic Operator
-## Syntax: base ** exponent
-exp = a ** b
-
-## Exponent with Built-in Function
-## Syntax: pow(base,exponent)
-# exp = pow(a,b)
-
-## Return Modulo for Exponent with Built-in Function
-## Syntax: pow(base,exponent, modulo)
-# exp = pow(a,b,2)
-
-## Using Math Library
-# import math
-# exp = math.pow(a,b)
+exp = a**b
 
 print(exp)
+
+exp1 = pow(a,b)
+print(exp1)
+
+exp2 = pow(a,b,2)
+
+print(exp2)
+
+import math
+
+exp3 = math.pow(a,b)
+
+print(exp3)
