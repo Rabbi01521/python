@@ -1,4 +1,14 @@
+#Rabbi Hasan
 a = int(input())
 b = int(input())
-div = a // b
-print(div)
+
+division = a//b
+
+print(division)
+
+a1= float(input())
+b1= float(input())
+
+division2 = a//b
+
+print(division)
