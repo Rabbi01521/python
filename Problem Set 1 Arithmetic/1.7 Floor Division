@@ -9,6 +9,6 @@ print(division)
 a1= float(input())
 b1= float(input())
 
-division2 = a//b
+division2 = a1//b1
 
 print(division)
