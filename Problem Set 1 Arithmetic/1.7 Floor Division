@@ -11,4 +11,4 @@ b1= float(input())
 
 division2 = a1//b1
 
-print(division)
+print(division2)
